@@ -1,9 +1,2 @@
-<!DOCTYPE html>
-<html>
-<body>
+Hello world
 
-<h1>My First World</h1>
-<p>Hej.</p>
-
-</body>
-</html>
